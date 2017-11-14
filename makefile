@@ -1,5 +1,5 @@
 # makefile that replaces the arduino IDE.
-# visit http://theonlineshed.com/make-unix
+# please visit http://theonlineshed.com/arduino-without-the-ide-an-intro-to-unix-make
 # 1. compiles all c/cpp files in the working directory plus all the files in the
 # arduino cores directory too.
 # 2. All files are linked into .elf
